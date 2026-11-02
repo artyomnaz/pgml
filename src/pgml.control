@@ -1,0 +1,5 @@
+# pgml extension
+comment = 'Unified in-database machine learning: classification, clustering, regression, PCA (pure SQL+C, no external libraries)'
+default_version = '1.0'
+module_pathname = '$libdir/pgml'
+relocatable = true

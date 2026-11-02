@@ -1,0 +1,6 @@
+-- Preferred install: copy src/pgml.control, src/sql/pgml--1.0.sql, and the
+-- built shared library into the PostgreSQL extension directories, then
+--   CREATE EXTENSION pgml;
+--
+-- For a session that loads the library by absolute path instead, use
+-- experiments/common/load_abs.sql with -v SO=/absolute/path/to/pgml.so.
